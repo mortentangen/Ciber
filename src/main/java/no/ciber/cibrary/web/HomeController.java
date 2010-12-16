@@ -1,4 +1,4 @@
-package no.ciber.cibrary;
+package no.ciber.cibrary.web;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
